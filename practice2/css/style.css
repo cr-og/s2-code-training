@@ -183,8 +183,8 @@ li {
 
 /* sp */
 
-@media screen{ (max-width: 600px;)
-  
+@media screen and (max-width: 600px) {
+
   .wrapper{
     margin-bottom: 70px;
   }
